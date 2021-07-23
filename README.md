@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br>
 This project is from the Web Dev Simplified tutorial, [Learn React in 30 Mins](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 <!-- ## Available Scripts
 
 In the project directory, you can run:

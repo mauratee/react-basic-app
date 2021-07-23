@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// render everything from App component into root div in index.html
 ReactDOM.render(
   <React.StrictMode>
     <App />
