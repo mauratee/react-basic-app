@@ -1,6 +1,7 @@
 # About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+<br>
 This project is from the Web Dev Simplified tutorial, [Learn React in 30 Mins](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 <!-- ## Available Scripts
