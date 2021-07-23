@@ -1,7 +1,10 @@
 
 
 function App() {
-  return null
+  return (
+    // create and return component as jsx
+    <TodoList />
+  )
 }
 
 export default App;
